@@ -1,3 +1,4 @@
+env | grep PATH
 exit
 git
 exit
@@ -23,3 +24,16 @@ env | grep PATH
 pacman -S winpty
 env | grep PATH
 env | grep PATH
+ls
+ls
+history --help
+history -a
+history
+history
+ps -a 
+env
+ps -a 
+history -a
+source .bashrc
+source ~/.bashrc
+ps -a
